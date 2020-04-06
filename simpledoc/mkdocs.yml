@@ -19,6 +19,8 @@ nav:
     - Creational Pattern: designPattern\creational\creational-dp.md
     - Structural Pattern: designPattern\structural\structural-dp.md
     - Behaviour Pattern: designPattern\behavioural\behaviour-dp.md
+  - Current Docs:
+    - Jaeger Implementation: current/upgenics/jaeger/jaeger101.md
   - Contact:
     - About: Contact/about.md
     - Markdown: output.md
