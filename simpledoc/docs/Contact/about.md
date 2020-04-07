@@ -1,4 +1,4 @@
-# Majestic Technologix
+# Mohsin Mahmood
 ***
 We help our customers reduce their revenue streams, increase their bottom line productivity through advanced web development + data science solutions. Our staff provides an opportunity to find innovative ways to strategically analyze and optimize operations when learning new market perspectives. We are one of the top data science companies in Pakistan that offers unique advantages.
 
@@ -16,8 +16,8 @@ Github Profile: [Github](https://github.com/mohsinmdl)
 ***
 
 
-### Contact Us
+### Contact Me
  **Business Hour** : Monday – Friday : 9am to 5pm<br>
- **Address** : Plot No. 3, Block No. P, Valancia Town, Lahore<br>
- **E-mail** : info[@]majestictechnologix.com<br>
- **Contact Info** : (92) 3078820677  ,  (92) 3005634937<br>
+ **Address** : COMSATS University Lahore<br>
+ **E-mail** : mohsinmahmood.mdl@gmail.com<br>
+ **Contact Info** : (92) 3336373467  ,  (92) 3336373467<br>
