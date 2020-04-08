@@ -63,9 +63,18 @@ git branch
 git brach --list
 ```
 ### Removing a branch
+
+##### Remotly
 ```commandline
-git brach -d
+git push origin --delete <branch-name>
 ```
+
+##### Locally
+```commandline
+git branch -d <branch-name>
+```
+
+
 ### Create a tag
 ```commandline
 git tag <tag-name>
@@ -159,12 +168,17 @@ git commit -m "<message>"
 
 ### Switch between branches A/B B/A 
 ```commandline
-git checkout - 
+git checkout <branch-name> 
 
 ``` 
 
 
-# push an existing repository from the command line
+## Adding and Pushing an existing repository
+***
+```
+git remote add origin <link-to-github-repo>
+```
+
 ```commandline
 git remote add origin https://github.com/mohsinmdl/GTIN-Prediction-System.git
 git push -u origin master
