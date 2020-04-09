@@ -280,7 +280,7 @@ def hello():
 # Location: base_dir\cgpaPrediction.py
 # Location: base_dir\templates\index.html
 
-{!flask-doc\assets\python\cgpaPrediction.py!}
+{!flask-doc/assets/python/cgpaPrediction.py!}
 
 ```
 
@@ -288,7 +288,7 @@ def hello():
 <!-- filename: index.html -->
 <!--  Location: base_dir\templates\index.html -->
 
-{!flask-doc\assets\html\index.html!}
+{!flask-doc/assets/html/index.html!}
 
 ```
 

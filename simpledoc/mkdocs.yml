@@ -12,25 +12,28 @@ copyright: 'Copyright &copy; 2016 - 2019 Martin Donath'
 
 nav:
   - Django | Heroku: index.md
-  - Jaeger Guide 101: current/upgenics/jaeger/jaeger101.md
+  - Linux Guide 101: linux101/linux-guide.md
+  - Jaeger Guide 101: 
+    - Jaeger 101: current/upgenics/jaeger/jaeger101.md
+    - Jaeger RPC: current/upgenics/jaeger/jaegerRPC.md
   - Git Guide 101:  git-guide-101.md
-  - Flask Guide 101: flask-doc\Flask Guide 101.md
+  - Flask Guide 101: flask-doc/Flask Guide 101.md
   - Design Pattern:
     - What is Design Pattern: designPattern/design-pattern-intro.md
-    - Creational Pattern: designPattern\creational\creational-dp.md
-    - Structural Pattern: designPattern\structural\structural-dp.md
-    - Behaviour Pattern: designPattern\behavioural\behaviour-dp.md
+    - Creational Pattern: designPattern/creational/creational-dp.md
+    - Structural Pattern: designPattern/structural/structural-dp.md
+    - Behaviour Pattern: designPattern/behavioural/behaviour-dp.md
+  - Assignment: Contact/ass2.md
+  - MKDocs Guide 101: mkdocs101.md
   - Contact:
     - About: Contact/about.md
     - Markdown: output.md
-  - Assignment: Contact/ass2.md
-  - MKDocs Guide 101: mkdocs101.md
 
 theme:
   name : 'material'
   palette:
-    primary: 'Teal'
-    accent: 'Teal'
+    primary: 'blue grey'
+    accent: 'grey'
 
 # Extensions
 markdown_extensions:
