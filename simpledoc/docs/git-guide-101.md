@@ -186,11 +186,36 @@ git push -u origin master
 ```
 
 
+## List your existing remotes
+
+```
+$ git remote -v
+```
 
 
+## Change a remote Git repository
+
+```
+git remote set-url origin git@your.git.repo.example.com:user/repository2.git
+```
 
 
+```
+You can check the configs of your repository by :
 
+git config -l
+which contains your remote repository url.
+
+Also, you can use the following command :
+
+git remote -v
+
+```
+
+## Update Git submodule to latest commit on origin
+```
+git submodule update --remote --merge
+```
 
 
 
